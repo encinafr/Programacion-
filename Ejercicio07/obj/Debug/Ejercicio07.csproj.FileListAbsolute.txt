@@ -1,0 +1,6 @@
+E:\C#\Encina.Javier.2A\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+E:\C#\Encina.Javier.2A\Ejercicio07\bin\Debug\Ejercicio07.exe
+E:\C#\Encina.Javier.2A\Ejercicio07\bin\Debug\Ejercicio07.pdb
+E:\C#\Encina.Javier.2A\Ejercicio07\obj\Debug\Ejercicio07.csprojResolveAssemblyReference.cache
+E:\C#\Encina.Javier.2A\Ejercicio07\obj\Debug\Ejercicio07.exe
+E:\C#\Encina.Javier.2A\Ejercicio07\obj\Debug\Ejercicio07.pdb
