@@ -1,0 +1,5 @@
+E:\C#\Encina.Javier.2A\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+E:\C#\Encina.Javier.2A\Ejercicio08\bin\Debug\Ejercicio08.exe
+E:\C#\Encina.Javier.2A\Ejercicio08\bin\Debug\Ejercicio08.pdb
+E:\C#\Encina.Javier.2A\Ejercicio08\obj\Debug\Ejercicio08.exe
+E:\C#\Encina.Javier.2A\Ejercicio08\obj\Debug\Ejercicio08.pdb
