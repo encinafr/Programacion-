@@ -1,0 +1,6 @@
+G:\C#\Encina.Javier.2A\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+G:\C#\Encina.Javier.2A\Ejercicio19\bin\Debug\Ejercicio19.exe
+G:\C#\Encina.Javier.2A\Ejercicio19\bin\Debug\Ejercicio19.pdb
+G:\C#\Encina.Javier.2A\Ejercicio19\obj\Debug\Ejercicio19.csprojResolveAssemblyReference.cache
+G:\C#\Encina.Javier.2A\Ejercicio19\obj\Debug\Ejercicio19.exe
+G:\C#\Encina.Javier.2A\Ejercicio19\obj\Debug\Ejercicio19.pdb
