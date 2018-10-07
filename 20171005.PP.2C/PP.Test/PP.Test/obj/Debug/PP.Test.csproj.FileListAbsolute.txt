@@ -1,0 +1,8 @@
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.pdb
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+C:\Users\encin\Downloads\02-Programacion-Y-Laboratorio-II-master\02-Programacion-Y-Laboratorio-II-master\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
