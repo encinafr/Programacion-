@@ -1,0 +1,7 @@
+E:\Encina.Francisco.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Encina.Francisco.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\Encina.Francisco.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\Encina.Francisco.2A\Entidades\bin\Debug\Entidades.dll
+G:\Encina.Francisco.2A\Entidades\bin\Debug\Entidades.pdb
+G:\Encina.Francisco.2A\Entidades\obj\Debug\Entidades.dll
+G:\Encina.Francisco.2A\Entidades\obj\Debug\Entidades.pdb

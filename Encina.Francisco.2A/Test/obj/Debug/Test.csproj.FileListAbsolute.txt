@@ -1,0 +1,11 @@
+G:\Encina.Francisco.2A\Test\bin\Debug\Test.exe.config
+E:\Encina.Francisco.2A\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Encina.Francisco.2A\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Encina.Francisco.2A\Test\bin\Debug\Test.exe.config
+G:\Encina.Francisco.2A\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Encina.Francisco.2A\Test\bin\Debug\Test.exe
+G:\Encina.Francisco.2A\Test\bin\Debug\Test.pdb
+G:\Encina.Francisco.2A\Test\bin\Debug\Entidades.dll
+G:\Encina.Francisco.2A\Test\bin\Debug\Entidades.pdb
+G:\Encina.Francisco.2A\Test\obj\Debug\Test.exe
+G:\Encina.Francisco.2A\Test\obj\Debug\Test.pdb
