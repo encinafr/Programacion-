@@ -1,0 +1,9 @@
+G:\Snake\JuegoSnake\bin\Debug\JuegoSnake.exe.config
+G:\Snake\JuegoSnake\bin\Debug\JuegoSnake.exe
+G:\Snake\JuegoSnake\bin\Debug\JuegoSnake.pdb
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.csprojResolveAssemblyReference.cache
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.Form1.resources
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.Properties.Resources.resources
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.csproj.GenerateResource.Cache
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.exe
+G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.pdb
