@@ -1,0 +1,14 @@
+select para traer los campos, con * llama a todos.
+from es de donde saca la informacion.
+FROM TABLE
+Verifica que que los campos que yo pedi, existen en la tabla que yo
+le indique en el from.
+Funcion TOP me devuelve una cierta cantidad de tablas y no todas.
+WHERE es para buscar algun dato en particular de alguna tabla en particulas
+con alguna condicion o varias.
+USE Productos;
+SELECT * // aca van los campos , al poner el * me muestra todos
+SELECT pais AS Rancho,precio AS reCaro//puedo ponerle un alias
+FROM televisores 
+WHERE 1 = 1
+ORDER BY pulgadas,marca DESC // ASC es para ascendente.
