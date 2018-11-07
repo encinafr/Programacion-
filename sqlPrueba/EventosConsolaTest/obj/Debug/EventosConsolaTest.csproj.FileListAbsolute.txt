@@ -1,0 +1,11 @@
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\EventosConsolaTest.exe.config
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\EventosConsolaTest.exe
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\EventosConsolaTest.pdb
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\Entidades2.dll
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\Entidades2.pdb
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\bin\Debug\Entidades2.dll.config
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\obj\Debug\EventosConsolaTest.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\obj\Debug\EventosConsolaTest.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\obj\Debug\EventosConsolaTest.csproj.CopyComplete
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\obj\Debug\EventosConsolaTest.exe
+C:\Users\alumno\Downloads\sqlPrueba\EventosConsolaTest\obj\Debug\EventosConsolaTest.pdb
