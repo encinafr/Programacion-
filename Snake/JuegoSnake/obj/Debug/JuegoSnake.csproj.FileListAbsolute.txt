@@ -7,3 +7,12 @@ G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.Properties.Resources.resources
 G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.csproj.GenerateResource.Cache
 G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.exe
 G:\Snake\JuegoSnake\obj\Debug\JuegoSnake.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\bin\Debug\JuegoSnake.exe.config
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.exe
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\bin\Debug\JuegoSnake.exe
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\bin\Debug\JuegoSnake.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.csprojResolveAssemblyReference.cache
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.Form1.resources
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.Properties.Resources.resources
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\Snake\JuegoSnake\obj\Debug\JuegoSnake.csproj.GenerateResource.Cache

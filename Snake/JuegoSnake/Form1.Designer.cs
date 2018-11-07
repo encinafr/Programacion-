@@ -69,6 +69,7 @@
             // bucle
             // 
             this.bucle.Enabled = true;
+            this.bucle.Interval = 50;
             this.bucle.Tick += new System.EventHandler(this.bucle_Tick);
             // 
             // Form1
