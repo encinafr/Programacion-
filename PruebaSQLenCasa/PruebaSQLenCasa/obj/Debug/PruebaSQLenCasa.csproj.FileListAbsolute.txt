@@ -1,0 +1,6 @@
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\bin\Debug\PruebaSQLenCasa.exe.config
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\bin\Debug\PruebaSQLenCasa.exe
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\bin\Debug\PruebaSQLenCasa.pdb
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\obj\Debug\PruebaSQLenCasa.csprojResolveAssemblyReference.cache
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\obj\Debug\PruebaSQLenCasa.exe
+C:\Users\encin\Desktop\PruebaSQLenCasa\PruebaSQLenCasa\obj\Debug\PruebaSQLenCasa.pdb
