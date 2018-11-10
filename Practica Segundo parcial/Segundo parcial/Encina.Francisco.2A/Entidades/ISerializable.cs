@@ -8,8 +8,11 @@ namespace Entidades
 {
     public interface ISerializable
     {
-        string RutaArchivo { get; set; }
-        bool SerializarXML();
-        bool DeserealizarXML();
+        string RutaArchivo
+        { get; set; }
+
+        Boolean Deserializar();
+
+        Boolean Serializar();
     }
 }

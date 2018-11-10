@@ -6,33 +6,40 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    [Serializable]
     public class Platano : Fruta
     {
-        private string _paisOrigen;
+        public string _paisOrigen;
 
-        public Platano() { }
+        #region "Propiedades"
+        public override bool TieneCarozo
+        { get { return false; } }
+
+        public string Tipo
+        { get { return "Plátano"; } }
+        #endregion
+
+        #region "Constructores"
+        public Platano() : base(0, ConsoleColor.White) { }
 
         public Platano(float peso, ConsoleColor color, string pais)
             : base(peso, color)
-        {
-            this._paisOrigen = pais;
-        }
+        { this._paisOrigen = pais; }
+        #endregion
 
-        public string Tipo { get { return "Platano"; } }
-
-        public override bool TieneCarozo
-        {
-            get { return false; }
-        }
-
+        #region "Métodos"
         protected override string FrutaToString()
         {
-            return String.Format("TIPO: {0} -- {1} -- Pais Origen {2}", this.Tipo, base.FrutaToString(), this._paisOrigen);    
-        }
+            StringBuilder stringBuild = new StringBuilder();
+            stringBuild.AppendFormat("{0}-{2}-{1}", this.Tipo, this._paisOrigen, base.FrutaToString());
 
-        public override string ToString()
-        {
-            return this.FrutaToString();
+            return stringBuild.ToString();
         }
+        #endregion
+
+        #region "Sobrecargas"
+        public override string ToString()
+        { return this.FrutaToString(); }
+        #endregion
     }
 }
