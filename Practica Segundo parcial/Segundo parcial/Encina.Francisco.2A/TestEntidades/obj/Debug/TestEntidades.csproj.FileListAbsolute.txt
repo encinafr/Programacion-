@@ -1,0 +1,16 @@
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.exe
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\Entidades.dll
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\Entidades.pdb
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.exe
+D:\Programacion II - Lab II\prog-lab2\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.pdb
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.pdb
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\Entidades.dll
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\bin\Debug\Entidades.pdb
+C:\Users\encin\Downloads\Segundo parcial\Segundo parcial\Arevalo.Federico\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
