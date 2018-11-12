@@ -1,0 +1,9 @@
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\bin\Debug\DelegadoEvento.exe.config
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\bin\Debug\DelegadoEvento.exe
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\bin\Debug\DelegadoEvento.pdb
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.Form1.resources
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.Form2.resources
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.Properties.Resources.resources
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.csproj.GenerateResource.Cache
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.exe
+C:\Users\encin\Desktop\DelegadoEvento\DelegadoEvento\obj\Debug\DelegadoEvento.pdb
