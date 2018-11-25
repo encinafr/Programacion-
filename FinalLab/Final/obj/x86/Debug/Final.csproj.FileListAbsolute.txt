@@ -53,3 +53,14 @@ E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Final.exe
 E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Final.pdb
 E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Entidades.dll
 E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Entidades.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\bin\Debug\Final.exe.config
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\Final.exe
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\Final.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\bin\Debug\Final.exe
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\bin\Debug\Final.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\bin\Debug\Entidades.dll
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\bin\Debug\Entidades.pdb
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\SP.frmFinal.resources
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\encin\Documents\GitHub\Programacion_Lab_2\FinalLab\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache

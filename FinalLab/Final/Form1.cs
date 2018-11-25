@@ -26,7 +26,7 @@ namespace SP
 
         private void frmFinal_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Santiago Moran");
+            MessageBox.Show("Encina Javier");
         }
 
         //Crear dos objetos de tipo Deposito, cada uno de estos objetos contiene un Array de la clase Producto.
