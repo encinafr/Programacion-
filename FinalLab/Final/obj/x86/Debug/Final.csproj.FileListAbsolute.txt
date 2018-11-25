@@ -1,0 +1,55 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\bin\Debug\Final.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\bin\Debug\Final.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\Final.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\Final.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\SP.frmFinal.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\Final\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\Final.exe
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\Final.pdb
+C:\Users\alumno\Desktop\2017_12_finales\Final\bin\Debug\Final.exe
+C:\Users\alumno\Desktop\2017_12_finales\Final\bin\Debug\Final.pdb
+C:\Users\alumno\Desktop\2017_12_finales\Final\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\2017_12_finales\Final\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\SP.frmFinal.resources
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Final\obj\x86\Debug\Final.exe
+C:\Users\alumno\Desktop\Final\obj\x86\Debug\Final.pdb
+C:\Users\SERJH\Desktop\FinalLab\Final\bin\Debug\Final.exe.config
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\Final.exe
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\Final.pdb
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\SP.frmFinal.resources
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\SERJH\Desktop\FinalLab\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\SERJH\Desktop\FinalLab\Final\bin\Debug\Final.exe
+C:\Users\SERJH\Desktop\FinalLab\Final\bin\Debug\Final.pdb
+C:\Users\SERJH\Desktop\FinalLab\Final\bin\Debug\Entidades.dll
+C:\Users\SERJH\Desktop\FinalLab\Final\bin\Debug\Entidades.pdb
+C:\Users\encin\Desktop\FinalLab\Final\bin\Debug\Final.exe.config
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\Final.exe
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\Final.pdb
+C:\Users\encin\Desktop\FinalLab\Final\bin\Debug\Final.exe
+C:\Users\encin\Desktop\FinalLab\Final\bin\Debug\Final.pdb
+C:\Users\encin\Desktop\FinalLab\Final\bin\Debug\Entidades.dll
+C:\Users\encin\Desktop\FinalLab\Final\bin\Debug\Entidades.pdb
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\SP.frmFinal.resources
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\encin\Desktop\FinalLab\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache
+E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Final.exe.config
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\Final.exe
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\Final.pdb
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\Final.csprojResolveAssemblyReference.cache
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\SP.frmFinal.resources
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\SP.Properties.Resources.resources
+E:\ArchivosParaSPc#\FinalLab\Final\obj\x86\Debug\Final.csproj.GenerateResource.Cache
+E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Final.exe
+E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Final.pdb
+E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Entidades.dll
+E:\ArchivosParaSPc#\FinalLab\Final\bin\Debug\Entidades.pdb
