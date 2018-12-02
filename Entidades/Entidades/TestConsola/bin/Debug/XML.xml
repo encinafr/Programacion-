@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cartuchera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_marca>Señor Cartuchera</_marca>
+  <_capacidad>2</_capacidad>
+  <elementos>
+    <Utiles xsi:type="Lapicera">
+      <_precio>95.879997253417969</_precio>
+      <_marca>parker</_marca>
+      <Precio>95.879997253417969</Precio>
+      <Marca>parker</Marca>
+      <_color>azul</_color>
+      <_trazo>fino</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>14.550000190734863</_precio>
+      <_marca>dos banderas</_marca>
+      <Precio>14.550000190734863</Precio>
+      <Marca>dos banderas</Marca>
+      <soloLapiz>true</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>22.770000457763672</_precio>
+      <_marca>bic</_marca>
+      <Precio>22.770000457763672</Precio>
+      <Marca>bic</Marca>
+      <_color>negro</_color>
+      <_trazo>grueso</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>54.900001525878906</_precio>
+      <_marca>marmela</_marca>
+      <Precio>54.900001525878906</Precio>
+      <Marca>marmela</Marca>
+      <_color>verde</_color>
+      <_trazo>medio</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>66.660003662109375</_precio>
+      <_marca>edding</_marca>
+      <Precio>66.660003662109375</Precio>
+      <Marca>edding</Marca>
+      <_color>violeta</_color>
+      <_trazo>fino</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>6.25</_precio>
+      <_marca>faber castell</_marca>
+      <Precio>6.25</Precio>
+      <Marca>faber castell</Marca>
+      <soloLapiz>false</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>9.9899997711181641</_precio>
+      <_marca>katana</_marca>
+      <Precio>9.9899997711181641</Precio>
+      <Marca>katana</Marca>
+      <soloLapiz>false</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>3.5</_precio>
+      <_marca>maped</_marca>
+      <Precio>3.5</Precio>
+      <Marca>maped</Marca>
+      <soloLapiz>true</soloLapiz>
+    </Utiles>
+  </elementos>
+  <Elementos>
+    <Utiles xsi:type="Lapicera">
+      <_precio>95.879997253417969</_precio>
+      <_marca>parker</_marca>
+      <Precio>95.879997253417969</Precio>
+      <Marca>parker</Marca>
+      <_color>azul</_color>
+      <_trazo>fino</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>14.550000190734863</_precio>
+      <_marca>dos banderas</_marca>
+      <Precio>14.550000190734863</Precio>
+      <Marca>dos banderas</Marca>
+      <soloLapiz>true</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>22.770000457763672</_precio>
+      <_marca>bic</_marca>
+      <Precio>22.770000457763672</Precio>
+      <Marca>bic</Marca>
+      <_color>negro</_color>
+      <_trazo>grueso</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>54.900001525878906</_precio>
+      <_marca>marmela</_marca>
+      <Precio>54.900001525878906</Precio>
+      <Marca>marmela</Marca>
+      <_color>verde</_color>
+      <_trazo>medio</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <_precio>66.660003662109375</_precio>
+      <_marca>edding</_marca>
+      <Precio>66.660003662109375</Precio>
+      <Marca>edding</Marca>
+      <_color>violeta</_color>
+      <_trazo>fino</_trazo>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>6.25</_precio>
+      <_marca>faber castell</_marca>
+      <Precio>6.25</Precio>
+      <Marca>faber castell</Marca>
+      <soloLapiz>false</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>9.9899997711181641</_precio>
+      <_marca>katana</_marca>
+      <Precio>9.9899997711181641</Precio>
+      <Marca>katana</Marca>
+      <soloLapiz>false</soloLapiz>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <_precio>3.5</_precio>
+      <_marca>maped</_marca>
+      <Precio>3.5</Precio>
+      <Marca>maped</Marca>
+      <soloLapiz>true</soloLapiz>
+    </Utiles>
+  </Elementos>
+</Cartuchera>

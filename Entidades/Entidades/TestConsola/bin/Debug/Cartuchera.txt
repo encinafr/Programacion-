@@ -1,0 +1,13 @@
+| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino| Precio:  54,9000015258789| Marca:  marmela| | Color: verde| Trazo: medio| Precio:  66,6600036621094| Marca:  edding| | Color: violeta| Trazo: fino| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino
+| Precio:  54,9000015258789| Marca:  marmela| | Color: verde| Trazo: medio
+| Precio:  66,6600036621094| Marca:  edding| | Color: violeta| Trazo: fino
+| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino
+| Precio:  54,9000015258789| Marca:  marmela| | Color: verde| Trazo: medio
+| Precio:  66,6600036621094| Marca:  edding| | Color: violeta| Trazo: fino
+| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino02/12/2018 13:51:10
+| Precio:  54,9000015258789| Marca:  marmela| | Color: verde| Trazo: medio02/12/2018 13:51:10
+| Precio:  66,6600036621094| Marca:  edding| | Color: violeta| Trazo: fino02/12/2018 13:51:10
+| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino 02/12/2018 14:28:19
+| Precio:  54,9000015258789| Marca:  marmela| | Color: verde| Trazo: medio 02/12/2018 14:28:19
+| Precio:  66,6600036621094| Marca:  edding| | Color: violeta| Trazo: fino 02/12/2018 14:28:22
+| Precio:  95,879997253418| Marca:  parker| | Color: azul| Trazo: fino 02/12/2018 14:30:09

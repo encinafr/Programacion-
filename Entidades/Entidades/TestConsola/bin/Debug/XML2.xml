@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lapicera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_precio>79</_precio>
+  <_marca>Big</_marca>
+  <Precio>79</Precio>
+  <Marca>Big</Marca>
+  <_color>Roja</_color>
+  <_trazo>0.5</_trazo>
+</Lapicera>
